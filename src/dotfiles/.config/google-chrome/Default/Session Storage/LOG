@@ -1,0 +1,13 @@
+2016/04/09-01:57:29.731 2432 Reusing MANIFEST /home/chills/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2016/04/09-01:57:29.731 2432 Recovering log #9
+2016/04/09-01:57:29.744 2432 Reusing old log /home/chills/.config/google-chrome/Default/Session Storage/000009.log 
+2016/04/09-01:57:40.754 2575 Level-0 table #13: started
+2016/04/09-01:57:40.775 2575 Level-0 table #13: 1423276 bytes OK
+2016/04/09-01:57:40.778 2575 Delete type=0 #9
+2016/04/09-02:12:58.377 2575 Compacting 2@0 + 1@1 files
+2016/04/09-02:12:58.399 2575 Generated table #14: 2205 keys, 913601 bytes
+2016/04/09-02:12:58.399 2575 Compacted 2@0 + 1@1 files => 913601 bytes
+2016/04/09-02:12:58.400 2575 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/04/09-02:12:58.400 2575 Delete type=2 #10
+2016/04/09-02:12:58.400 2575 Delete type=2 #13
+2016/04/09-02:12:58.400 2575 Delete type=2 #7
